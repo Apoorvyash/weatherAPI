@@ -1,0 +1,1 @@
+@py.exe C:\Users\Apoorv\Desktop\copilot\weatherAPI.py %*
